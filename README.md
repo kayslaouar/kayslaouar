@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kayslaouar
-- 👀 I’m interested in DSA, Systems, Software Engineering
-- 🌱 I’m currently learning system design, AWS, scalable web systems, blockchain, Solidity, operating systems, DevOps, agile
+- 👀 I’m interested in general software engineering, backend development
+- 🌱 I’m currently learning ML System Design, Kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/kayslaouar/
