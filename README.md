@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kayslaouar
-- 👀 I’m interested in general software engineering, backend development
-- 🌱 I’m currently learning ML System Design, Kubernetes
+- 👀 I’m interested in general swe, backend
+- 🌱 I’m currently learning ML system design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/kayslaouar/
